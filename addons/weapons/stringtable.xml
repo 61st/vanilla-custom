@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="lxim">
+    <Package name="Weapons">
+        <Key ID="STR_lxim_weapons_Box_Weapons">
+            <Original>[LXIM] Weapons</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_BlackCamo">
+            <Original>[LXIM] MX (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_BlackCamo">
+            <Original>[LXIM] MX 3GL (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_greenspray">
+            <Original>[LXIM] MX (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_greenspray">
+            <Original>[LXIM] MX 3GL (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_blackfine">
+            <Original>[LXIM] MX (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_blackfine">
+            <Original>[LXIM] MX 3GL (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_blackhex">
+            <Original>[LXIM] MX (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_blackhex">
+            <Original>[LXIM] MX 3GL (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_brownswirl">
+            <Original>[LXIM] MX (Brown Swirl Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_brownswirl">
+            <Original>[LXIM] MX 3GL (Brown Swirl  Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_dgreenpat">
+            <Original>[LXIM] MX (Dark Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_dgreenpat">
+            <Original>[LXIM] MX 3GL (Dark Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_greendig">
+            <Original>[LXIM] MX (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_greendig">
+            <Original>[LXIM] MX 3GL (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_LXIM">
+            <Original>[LXIM] MX (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_LXIM">
+            <Original>[LXIM] MX 3GL (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_greenstrip">
+            <Original>[LXIM] MX (Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_greenstrip">
+            <Original>[LXIM] MX 3GL (Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_greenx">
+            <Original>[LXIM] MX (Green X's Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_greenx">
+            <Original>[LXIM] MX 3GL (Green X's Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_greyhex">
+            <Original>[LXIM] MX (Grey Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_greyhex">
+            <Original>[LXIM] MX 3GL (Grey HexCamo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_snadpat">
+            <Original>[LXIM] MX (Sand Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_snadpat">
+            <Original>[LXIM] MX 3GL (Sand Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_greenspray">
+            <Original>[LXIM] MXM (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_blackfine">
+            <Original>[LXIM] MXM (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_blackhex">
+            <Original>[LXIM] MXM (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_brownswirl">
+            <Original>[LXIM] MXM (Brown Swirl Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_dgreenpat">
+            <Original>[LXIM] MXM (Dark Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_greendig">
+            <Original>[LXIM] MXM (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_LXIM">
+            <Original>[LXIM] MXM (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_greenstrip">
+            <Original>[LXIM] MXM (Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_greenx">
+            <Original>[LXIM] MXM (Green Xs Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_greyhex">
+            <Original>[LXIM] MXM (Grey Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_snadpat">
+            <Original>[LXIM] MXM (Sand Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_greenspray">
+            <Original>[LXIM] MXC (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_blackfine">
+            <Original>[LXIM] MXC (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_blackhex">
+            <Original>[LXIM] MXC (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_brownswirl">
+            <Original>[LXIM] MXC (Brown Swirl Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_dgreenpat">
+            <Original>[LXIM] MXC (Dark Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_greendig">
+            <Original>[LXIM] MXC (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_LXIM">
+            <Original>[LXIM] MXC (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_greenstrip">
+            <Original>[LXIM] MXC (Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_greenx">
+            <Original>[LXIM] MXC (Green Xs Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_greyhex">
+            <Original>[LXIM] MXC (Grey Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_snadpat">
+            <Original>[LXIM] MXC (Sand Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_greenspray">
+            <Original>[LXIM] MX LMG (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_blackfine">
+            <Original>[LXIM] MX LMG (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_blackhex">
+            <Original>[LXIM] MX LMG (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_brownswirl">
+            <Original>[LXIM] MX LMG (Brown Swirl Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_dgreenpat">
+            <Original>[LXIM] MX LMG (Dark Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_greendig">
+            <Original>[LXIM] MX LMG (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_LXIM">
+            <Original>[LXIM] MX LMG (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_greenstrip">
+            <Original>[LXIM] MX LMG (Green Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_greenx">
+            <Original>[LXIM] MX LMG (Green Xs Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_greyhex">
+            <Original>[LXIM] MX LMG (Grey Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_snadpat">
+            <Original>[LXIM] MX LMG (Sand Pattern Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_jesus">
+            <Original>[LXIM] MX (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_jesus">
+            <Original>[LXIM] MX 3GL (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_yonv">
+            <Original>[LXIM] MX (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_yonv">
+            <Original>[LXIM] MX 3GL (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_browndots">
+            <Original>[LXIM] MX (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_browndots">
+            <Original>[LXIM] MX 3GL (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_brownsplash">
+            <Original>[LXIM] MX (Brown Splash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_brownsplash">
+            <Original>[LXIM] MX 3GL (Brown Splash  Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_blacksploch">
+            <Original>[LXIM] MX (black sploch Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_blacksploch">
+            <Original>[LXIM] MX 3GL (black sploch Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_jesus">
+            <Original>[LXIM] MXM (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_yonv">
+            <Original>[LXIM] MXM (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_browndots">
+            <Original>[LXIM] MXM (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_brownsplash">
+            <Original>[LXIM] MXM (Brown Splash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_blacksploch">
+            <Original>[LXIM] MXM (black sploch Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_jesus">
+            <Original>[LXIM] MXC (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_yonv">
+            <Original>[LXIM] MXC (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_browndots">
+            <Original>[LXIM] MXC (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_brownsplash">
+            <Original>[LXIM] MXC (Brown Splash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_blacksploch">
+            <Original>[LXIM] MXC (black sploch Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_jesus">
+            <Original>[LXIM] MX LMG (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_yonv">
+            <Original>[LXIM] MX LMG (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_browndots">
+            <Original>[LXIM] MX LMG (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_brownsplash">
+            <Original>[LXIM] MX LMG (Brown Splash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_blacksploch">
+            <Original>[LXIM] MX LMG (black sploch Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_blackcamo">
+            <Original>[LXIM] MXM (BlaCK Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_blackcamo">
+            <Original>[LXIM] MXC (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_blackcamo">
+            <Original>[LXIM] MX LMG (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_EBR_Black_F">
+            <Original>[LXIM] Mk14 Mod 1 EBR (Anodised Black)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_Mk20_Black_F">
+            <Original>[LXIM] F2000 (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_Walther_P99">
+            <Original[LXIM] >Walther P99</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_Walther_P99_Tan">
+            <Original>[LXIM] Walther P99 (Tan)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MRAWS_Black_F">
+            <Original>[LXIM] MAAWS Mk4 Mod 1 (Black)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MRAWS_Black_Rail_F">
+            <Original>[LXIM] MAAWS Mk4 Mod 0 (Black)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_BlackCamo_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_CreedBlackCamo_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_CreedGreensprayCamo_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedblackfine_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedblackhex_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedbrownswirl_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Brown Swirl Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedgreendig_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_CreedLXIM_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedgreenx_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Green X Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedjesus_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedyonv_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedbrowndots_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedbrownsplash_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Brown Splash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedblacksploch_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Black Sploch Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_BlackCamo_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_CreedBlackCamo_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Black Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_CreedGreensprayCamo_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Green Spray Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedblackfine_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Black Fine Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedblackhex_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Black Hex Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedbrownswirl_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Brown Swirl Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedgreendig_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Green Digital Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_CreedLXIM_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (LXIM Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedgreenx_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Green X Camo)</Original>
+        </Key>
+       <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedjesus_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Jesus's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedyonv_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (YonV's)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedbrowndots_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Brown Dots Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedbrownsplash_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Brown Splash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedblacksploch_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Black Sploch Camo)</Original>
+        </Key>
+<!-- .................................................................... -->
+        <Key ID="STR_lxim_weapons_MX_brush">
+            <Original>[LXIM] MX (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_brush">
+            <Original>[LXIM] MX 3GL (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_brush">
+            <Original>[LXIM] MXM (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_brush">
+            <Original>[LXIM] MXC (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_brush">
+            <Original>[LXIM] MX LMG (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_brush_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedbrush_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_brush_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Brush Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedbrush_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Brush Camo)</Original>
+        </Key>
+
+<!-- .................................................................... -->
+        <Key ID="STR_lxim_weapons_MX_yonv2">
+            <Original>[LXIM] MX (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_yonv2">
+            <Original>[LXIM] MX 3GL (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_yonv2">
+            <Original>[LXIM] MXM (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_yonv2">
+            <Original>[LXIM] MXC (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_yonv2">
+            <Original>[LXIM] MX LMG (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_yonv2_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedyonv2_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_yonv2_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (YonV2 Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedyonv2_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (YonV2 Camo)</Original>
+        </Key>
+
+<!-- .................................................................... -->
+        <Key ID="STR_lxim_weapons_MX_walker">
+            <Original>[LXIM] MX (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_walker">
+            <Original>[LXIM] MX 3GL (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_walker">
+            <Original>[LXIM] MXM (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_walker">
+            <Original>[LXIM] MXC (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_walker">
+            <Original>[LXIM] MX LMG (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_walker_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedwalker_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_walker_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Walker Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedwalker_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Walker Camo)</Original>
+        </Key>
+<!-- .................................................................... -->
+        <Key ID="STR_lxim_weapons_MX_trash">
+            <Original>[LXIM] MX (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_GL_trash">
+            <Original>[LXIM] MX 3GL (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXM_trash">
+            <Original>[LXIM] MXM (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MXC_trash">
+            <Original>[LXIM] MXC (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_MX_SW_trash">
+            <Original>[LXIM] MX LMG (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_trash_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Magazine (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_100Rnd_65x39_caseless_Creedtrash_mag">
+            <Original>[LXIM] 100Rnd 6.5mm Creedmor Magazine (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_trash_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Magazine (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_30Rnd_65x39_caseless_Creedtrash_mag">
+            <Original>[LXIM] 30Rnd 6.5mm Creedmor Magazine (Trash Camo)</Original>
+        </Key>
+        <Key ID="STR_lxim_weapons_pdw">
+            <Original>[LXIM] PDW</Original>
+        </Key>
+    </Package>
+</Project>
